@@ -30,5 +30,5 @@ This project demonstrates a TCP/IP server application using multithreading for c
 ### Client
 ![client](image/client.png)
 ### Server
-![Server](image/server.pgn)
+![Server](image/server.png)
 
