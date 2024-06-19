@@ -26,3 +26,9 @@ This project demonstrates a TCP/IP server application using multithreading for c
 - Java Development Kit (JDK) installed
 - DBeaver installed for database management
 - Git installed for version control
+## Image of the interface
+### Client
+![client](image/client.png)
+### Server
+![Server](image/server.pgn)
+
