@@ -31,4 +31,7 @@ This project demonstrates a TCP/IP server application using multithreading for c
 ![client](image/client.png)
 ### Server
 ![Server](image/server.png)
+## Author
+Developed by Võ Thanh Sang.
 
+Thank you for your watching. 🍲📱
